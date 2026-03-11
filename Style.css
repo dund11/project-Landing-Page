@@ -30,22 +30,44 @@ a {
     font-size: 24px;
 }
 
-.header-section {
-    background: darkcyan;
-}
 
 .hero {
+    background: #1f2937;
+    color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 80px 150px;
 }
 
 .hero-text {
-    max-width: 400px;
+    max-width: 450px;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.paragraph {
+    color: #e5e7eb;
+    margin: 10px 0 20px 0;
 }
 
 .hero-image {
     width: 400px;
     height: 200px;
     background: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.sign {
+    background: #3882f6;
+    border: none;
+    color: white;
+    padding: 8px 25px;
+    border-radius: 5px;
 }
