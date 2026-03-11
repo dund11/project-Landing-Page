@@ -100,3 +100,14 @@ a {
     background: #e5e7eb;
     padding: 80px 300px;
 }
+
+.queto-text {
+    font-size: 26px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.author {
+    text-align: right;
+    font-weight: bold;
+}
