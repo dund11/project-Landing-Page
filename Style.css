@@ -134,3 +134,9 @@ a {
     border-radius: 5px;
 }
 
+.footer {
+    background: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
